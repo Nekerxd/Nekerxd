@@ -2,10 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/nekerxd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nekerxd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekerxd&layout=compact&langs_count=7&theme=github_dark#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nekerxd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true#gh-light-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekerxd&layout=compact&langs_count=7&theme=github_dark#gh-light-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nekerxd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekerxd&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,7 +20,7 @@
  	<a href="https://www.twitch.tv/nekerxd" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
       <a href = "mailto:matheus.carvalho37@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://raw.githubusercontent.com/nekerxd/nekerxd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![Snake animation](https://raw.githubusercontent.com/nekerxd/nekerxd/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![Snake animation Dark Mode](https://raw.githubusercontent.com/nekerxd/nekerxd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![Snake animation Light Mode](https://raw.githubusercontent.com/nekerxd/nekerxd/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   
 </div>
