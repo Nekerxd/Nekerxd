@@ -23,11 +23,4 @@
   ![Snake animation Dark Mode](https://raw.githubusercontent.com/nekerxd/nekerxd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   ![Snake animation Light Mode](https://raw.githubusercontent.com/nekerxd/nekerxd/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nekerxd&repo=github-readme-stats)](https://github.com/Nekerxd/Bootcamp-Carrefour)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nekerxd&repo=github-readme-stats)](https://github.com/Nekerxd/dio-projeto-netflix)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nekerxd&repo=github-readme-stats)](https://github.com/Nekerxd/Discord-Bot)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nekerxd&repo=github-readme-stats)](https://github.com/Nekerxd/Projeto-Flex-Turismos)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nekerxd&repo=github-readme-stats)](https://github.com/Nekerxd/Curso-Em-Video)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nekerxd&repo=github-readme-stats)](https://github.com/Nekerxd/VSCode)
-  
 </div>
