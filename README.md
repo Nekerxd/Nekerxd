@@ -1,27 +1,38 @@
-### Hello, World! 👋
-
-<div align="center">
-  <a href="https://github.com/nekerxd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nekerxd&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekerxd&layout=compact&langs_count=7&theme=transparent"/>
+<div id="header" align="center">
+  <img src="https://i.imgur.com/ATEHSYp.gif" width="130"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<h1 align="center">
+  Hello, World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center"><br>
+  <a href="https://github.com/nekerxd"><img width="45%" height="200em" src="https://github-readme-stats.vercel.app/api?username=Nekerxd&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/nekerxd"><img width="45%"height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekerxd&layout=compact&langs_count=7&theme=transparent"/></a>
+</div>
+  
+
+<div align="left" style="display: inline_block"><br>
+  <h3 align="left">Languages and Tools:</h3>
+  <a href="https://github.com/Nekerxd/C" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://github.com/Nekerxd/Jornada-Python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <img href="https://github.com/Nekerxd/SaveU/" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <a href="https://github.com/Nekerxd/Projeto-Flex-Turismos" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://github.com/Nekerxd/SaveU/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a> 
+  <a href="https://github.com/Nekerxd" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://github.com/Nekerxd" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://github.com/Nekerxd/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
 </div>
 
-<div><br>
+<div align="left"><br>
+  <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/matheus-fcarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/matheus_fcarvalho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/nekerxd" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-      <a href = "mailto:matheus.carvalho37@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
- 
+  <a href = "mailto:matheus.carvalho37@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  
   ![Snake animation Dark Mode](https://raw.githubusercontent.com/nekerxd/nekerxd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   ![Snake animation Light Mode](https://raw.githubusercontent.com/nekerxd/nekerxd/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  
 </div>
+
+<p align="center"><img  height="25" src="https://komarev.com/ghpvc/?username=nekerxd&label=Profile%20Views&color=0165f1&style=flat" alt="nekerxd"/></p>
