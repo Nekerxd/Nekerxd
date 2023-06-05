@@ -8,8 +8,8 @@
 </h1>
 
 <div align="center"><br>
-  <a href="https://github.com/nekerxd"><img width="45%" height="200em" src="https://github-readme-stats.vercel.app/api?username=Nekerxd&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/nekerxd"><img width="45%"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekerxd&layout=compact&langs_count=7&theme=transparent"/></a>
+  <a href="https://github.com/nekerxd"><img height="190em" src="https://github-readme-stats.vercel.app/api?username=Nekerxd&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/nekerxd"><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekerxd&layout=compact&langs_count=7&theme=transparent"/></a>
 </div>
   
 
