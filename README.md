@@ -8,8 +8,10 @@
 </h1>
 
 <div align="center"><br>
-  <a href="https://github.com/nekerxd"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Nekerxd&show_icons=true&cache_seconds=0&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/nekerxd"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekerxd&cache_seconds=0&layout=compact&hide_border=true&langs_count=7&theme=transparent"/></a>
+  <img width="100%" src="https://i.imgur.com/Gg2pZ3u.gif"/>
+  <a href="https://github.com/nekerxd"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Nekerxd&show_icons=true&cache_seconds=0&theme=transparent&title_color=045bff&text_color=fff&hide_border=true&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/nekerxd"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekerxd&cache_seconds=0&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=045bff&text_color=fff&"/></a>
+  <img width="100%" src="https://i.imgur.com/Gg2pZ3u.gif"/>
 </div>
   
 
