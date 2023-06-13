@@ -10,7 +10,7 @@
 <div align="center"><br>
   <img width="100%" src="https://i.imgur.com/Gg2pZ3u.gif"/>
   <a href="https://github.com/nekerxd"><img width="60%" src="https://github-readme-stats-nekerxd.vercel.app/api?username=nekerxd&show_icons=true&theme=dracula&title_color=045bff&text_color=ffffff&bg_color=0d1117&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"/></a>
-  <a href="https://github.com/nekerxd"><img width="38.25%" src="https://github-readme-stats-nekerxd.vercel.app/api/top-langs/?username=Nekerxd&cache_seconds=0&layout=compact&hide_border=true&langs_count=8&theme=transparent&bg_color=0d1117&title_color=045bff&text_color=fff&"/></a>
+  <a href="https://github.com/nekerxd"><img width="38.25%" src="https://github-readme-stats-nekerxd.vercel.app/api/top-langs?username=nekerxd&show_icons=true&theme=dracula&title_color=045bff&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=0&locale=en&layout=compact"/></a>
   <img width="100%" src="https://i.imgur.com/Gg2pZ3u.gif"/>
 </div>
   
