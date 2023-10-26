@@ -33,8 +33,9 @@
   <a href="https://instagram.com/matheus_fcarvalho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheus.carvalho37@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
-  ![Snake animation Dark Mode](https://raw.githubusercontent.com/nekerxd/nekerxd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![Snake animation Light Mode](https://raw.githubusercontent.com/nekerxd/nekerxd/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![Snake animation Dark Mode](https://raw.githubusercontent.com/Nekerxd/Nekerxd/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![Snake animation Light Mode](https://raw.githubusercontent.com/Nekerxd/Nekerxd/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 </div>
 
 <p align="center"><img  height="25" src="https://komarev.com/ghpvc/?username=nekerxd&label=Profile%20Views&color=0165f1&style=flat" alt="nekerxd"/></p>
