@@ -18,7 +18,7 @@
 <div align="left" style="display: inline_block"><br>
   <h3 align="left">Languages and Tools:</h3>
   <a href="https://github.com/Nekerxd/C" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://github.com/Nekerxd/Jornada-Python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://github.com/Nekerxd/Jornada-Python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <img href="https://github.com/Nekerxd/SaveU/" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <a href="https://github.com/Nekerxd/Projeto-Flex-Turismos" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://github.com/Nekerxd/SaveU/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a> 
